@@ -64,7 +64,7 @@ GET /localhost:8888/PRODUCT-SERVICE/products/{id}
 GET /localhost:8888/CUSTOMER-SERVICE/customers
 ```
 
-![image](https://user-images.githubusercontent.com/101568947/208621099-0be7dd9c-cc4d-4cc7-a0b8-8623c411291f.png)
+![4](https://user-images.githubusercontent.com/84187035/219983491-344399a5-b597-4672-abe0-a9d33496f9bb.jpg)
 
 
 
@@ -134,7 +134,7 @@ GET /localhost:8761/
 ## Customers
 ## 1 Show all customer
 
-![image](https://user-images.githubusercontent.com/101568947/208622005-63e69503-4e87-421b-9ff8-7acdc90bdbc7.png)
+![4](https://user-images.githubusercontent.com/84187035/219983491-344399a5-b597-4672-abe0-a9d33496f9bb.jpg)
 
 
 
@@ -147,22 +147,22 @@ GET /localhost:8761/
 
 ## 3 Delete Customer 
 
-![image](https://user-images.githubusercontent.com/101568947/208622330-1a266e93-0b43-44e7-b201-deb64557177a.png)
+![delete](https://user-images.githubusercontent.com/84187035/219983561-4fd6bf54-d9d5-4e37-94b9-2dc39832cdf2.jpg)
 
 
 
 ## 4 Search Customer 
 
-![image](https://user-images.githubusercontent.com/101568947/208622463-5f6fce9c-87bb-42e6-83f5-605ded385b1f.png)
+![search](https://user-images.githubusercontent.com/84187035/219983579-24942d52-e1b9-4763-bf25-873f4d757768.jpg)
 
 
 
 ## 5 New Customer 
 
-![image](https://user-images.githubusercontent.com/101568947/208622862-f27bca47-2f38-4b45-a706-090e6bfcd5a0.png)
+![new](https://user-images.githubusercontent.com/84187035/219983587-960fec41-2d05-4284-98de-700120b223ad.jpg)
 
 
-![image](https://user-images.githubusercontent.com/101568947/208623116-ad28b0c1-d5be-42e6-add7-d17b1ee0e0f6.png)
+![news](https://user-images.githubusercontent.com/84187035/219983599-50de6a5a-8a27-48a6-8fba-78f62b109968.jpg)
 
 
 
@@ -175,7 +175,7 @@ GET /localhost:8761/
 
 # III Secured Angular Client with keycloak 
 ## 1 Setup
-![image](https://user-images.githubusercontent.com/55364638/206931547-ea2548af-8dd5-4a6d-9906-912f9330fe16.png)
+![setup](https://user-images.githubusercontent.com/84187035/219983615-5603f0ff-ecf7-4ba1-a3f6-fcda0b520e87.jpg)
 
 
 ## 2 Postman
