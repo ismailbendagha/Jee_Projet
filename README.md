@@ -169,7 +169,7 @@ GET /localhost:8761/
 ## Bills
 ## Show Bills  
 
-![image](https://user-images.githubusercontent.com/101568947/208623424-110cb6ae-f2ce-4942-9509-a8140580087e.png)
+![bills](https://user-images.githubusercontent.com/84187035/219983737-86b07a26-5a5c-4ef4-81ac-ed31e70d0328.jpg)
 
 
 
